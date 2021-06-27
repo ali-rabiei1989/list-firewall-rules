@@ -1,6 +1,6 @@
 # Author : Ali Rabiei
 # Creation Date : 11/18/2020
-# This script list all enabled firewall rules
+# This script lists all enabled firewall rules
 # --------------------------------------
 
 Import-Module NetSecurity
